@@ -18,6 +18,7 @@ superuser: true
 
 # Role/position/tagline
 role: Postdoctoral Research Scientist
+
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Rutgers University
@@ -25,11 +26,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a postdoctoral research scientist working in the [Milstein Lab](https://milsteinlab.com) at the Center for Advanced Biotechnology & Medicine at Rutgers University. My research covers topics at the intersection of Neuroscience and Artificial Intelligence.
 
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Neuroscience
-  - Neuromorphic Computing
+# # Interests to show in About widget
+# interests:
+#   - Artificial Intelligence
+#   - Computational Neuroscience
+#   - Neuromorphic Computing
 
 # Education to show in About widget
 education:
@@ -41,36 +42,36 @@ education:
       institution: University College London
       year: 2015
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
+# # Skills
+# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: python
+#         icon_pack: fab
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-line
+#         icon_pack: fas
 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Bicycling
-        description: ''
-        percent: 60
-        icon: 🚴
-        icon_pack: fas
-      - name: Gliding
-        description: ''
-        percent: 80
-        icon: 🪂
-        icon_pack: fas
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Bicycling
+  #       description: ''
+  #       percent: 60
+  #       icon: 🚴
+  #       icon_pack: fas
+  #     - name: Gliding
+  #       description: ''
+  #       percent: 80
+  #       icon: 🪂
+  #       icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
