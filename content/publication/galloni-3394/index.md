@@ -1,0 +1,41 @@
+---
+title: Dendritic Domain-Specific Sampling of Long-Range Axons Shapes Feedforward and
+  Feedback Connectivity of L5 Neurons
+authors:
+- Alessandro R. Galloni
+- Zhiwen Ye
+- Ede Rancz
+date: '2022-01-01'
+publishDate: '2024-04-30T23:18:46.025360Z'
+publication_types:
+- article-journal
+publication: '*Journal of Neuroscience*'
+doi: 10.1523/JNEUROSCI.1620-21.2022
+abstract: Feedforward and feedback pathways interact in specific dendritic domains
+  to enable cognitive functions such as predictive processing and learning. Based
+  on axonal projections, hierarchically lower areas are thought to form synapses primarily
+  on dendrites in middle cortical layers, whereas higher-order areas are thought to
+  target dendrites in layer 1 and in deep layers. However, the extent to which functional
+  synapses form in regions of axodendritic overlap has not been extensively studied.
+  Here, we use viral tracing in the secondary visual cortex of male mice to map brain-wide
+  inputs to thick-tufted layer 5 pyramidal neurons. Furthermore, we provide a comprehensive
+  map of input locations through subcellular optogenetic circuit mapping. We show
+  that input pathways target distinct dendritic domains with far greater specificity
+  than appears from their axonal branching, often deviating substantially from the
+  canonical patterns. Common assumptions regarding the dendrite-level interaction
+  of feedforward and feedback inputs may thus need revisiting.SIGNIFICANCE STATEMENT
+  Perception and learning depend on the ability of the brain to shape neuronal representations
+  across all processing stages. Long-range connections across different hierarchical
+  levels enable diverse sources of contextual information, such as predictions or
+  motivational state, to modify feedforward signals. Assumptions regarding the organization
+  of this hierarchical connectivity have not been extensively verified. Here, we assess
+  the synaptic connectivity of brain-wide projections onto pyramidal neurons in the
+  visual cortex of mice. Using trans-synaptic viral tracing and subcellular optogenetic
+  circuit mapping, we show that functional synapses do not follow the consistent connectivity
+  rule predicted by their axonal branching patterns. These findings highlight the
+  diversity of computational strategies operating throughout cortical networks and
+  may aid in building better artificial networks.
+links:
+- name: URL
+  url: https://www.jneurosci.org/content/42/16/3394
+---
