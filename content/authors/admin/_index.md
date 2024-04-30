@@ -18,7 +18,6 @@ superuser: true
 
 # Role/position/tagline
 role: Postdoctoral Research Scientist
-bi
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Rutgers University
