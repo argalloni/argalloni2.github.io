@@ -58,20 +58,6 @@ education:
 #         icon: chart-line
 #         icon_pack: fas
 
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Bicycling
-  #       description: ''
-  #       percent: 60
-  #       icon: 🚴
-  #       icon_pack: fas
-  #     - name: Gliding
-  #       description: ''
-  #       percent: 80
-  #       icon: 🪂
-  #       icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
